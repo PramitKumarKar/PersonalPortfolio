@@ -2,6 +2,7 @@ import React from 'react'
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 import { Link } from 'react-scroll'
 import profilePicture1 from "../assets/profilePicture1.jpeg"
+import profilePicture from "../assets/profilePicture.jpg"
 const Home = () => {
   return (
     <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800'>
@@ -21,7 +22,7 @@ const Home = () => {
           </div>
         </div>
         <div>
-          <img src={profilePicture1} alt="mypic" className='rounded mx-auto w-2/3 md:w-full'/>
+          <img src={profilePicture} alt="mypic" className='rounded mx-auto w-2/3 md:w-full'/>
         </div>
       </div>
     </div>

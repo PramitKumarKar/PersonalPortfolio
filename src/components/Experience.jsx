@@ -7,8 +7,7 @@ import reactImage from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
 import java from "../assets/java.png";
 import python from "../assets/python.png";
-import aws from "../assets/aws.png";
-
+import solidity from "../assets/solidity.png"
 const Experience = () => {
   const techs = [
     {
@@ -55,9 +54,9 @@ const Experience = () => {
     },
     {
       id: 8,
-      src: aws,
-      title: "AWS",
-      style: "shadow-blue-800",
+      src: solidity,
+      title: "Blockchain (Solidity)",
+      style: "shadow-purple-700",
     },
   ];
 

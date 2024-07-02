@@ -19,7 +19,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-         I have hands-on experience with languages such as HTML5, CSS3, JavaScript, and various frameworks and libraries like React.js and Django. Through multiple courses and trainings, I have honed my skills in programming languages such as Java and Python.
+         I have hands-on experience with languages such as HTML5, CSS3, JavaScript, and various frameworks and libraries like React.js and Tailwind CSS. Through multiple courses and trainings, I have honed my skills in programming languages such as Java, JavaScript, Python and Solidity.
          Throughout creating and learning my way through various academic and personal projects, I have gained experience and fluency in developing visually appealing and intuitive websites.
         </p>
         
