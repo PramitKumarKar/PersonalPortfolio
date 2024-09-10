@@ -1,14 +1,13 @@
 import React from 'react'
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 import { Link } from 'react-scroll'
-import profilePicture1 from "../assets/profilePicture1.jpeg"
 import profilePicture from "../assets/profilePicture.jpg"
 const Home = () => {
   return (
     <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800'>
       <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
-        <div className='flex flex-col justify-center h-full'>
-          <h2 className='text-4xl sm:text-7xl font-bold text-white'>Full Stack Developer</h2>
+        <div className='flex flex-col justify-center h-[50%]'>
+          <h2 className='text-4xl sm:text-7xl font-bold text-white'>Software Developer</h2>
           <p className='text-gray-400 py-4 max-w-md'>
             I have been working on personal and academic projects for the past 1+ year and love working on softwares like ReactJS, NodeJS, Tailwind etc.
           </p>

@@ -7,13 +7,13 @@ const About = () => {
       className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
+        <div className="pb-2">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
         </div>
-        <p className="text-2xl mt-20">
-        Hello! I'm Pramit Kumar Kar, a passionate and dedicated full stack web developer with a strong desire to create innovative and user-friendly digital experiences. As a final year undergrad, I am excited to embark on my professional journey and bring my skills and enthusiasm to contribute to the ever-evolving world of web development.
+        <p className="text-2xl">
+        Hello! I'm Pramit Kumar Kar, a passionate and dedicated Software Developer with a strong desire to create innovative and user-friendly digital experiences. As a recent Engineering Graduate, I am excited to embark on my professional journey and bring my skills and enthusiasm to contribute to the ever-evolving world of web development.
         </p>
 
         <br />
@@ -25,7 +25,7 @@ const About = () => {
         
         <br />
          <p className="text-xl">
-         If you're looking for a passionate and versatile full stack web developer with a fresh perspective, I would love to connect with you. Let's collaborate to create seamless, engaging, and impactful web experiences that leave a lasting impression.
+         If you're looking for a passionate and versatile Software Developer with a fresh perspective, I would love to connect with you. Let's collaborate to create seamless, engaging, and impactful web experiences that leave a lasting impression.
          </p>
       </div>
     </div>
